@@ -4,7 +4,7 @@ from time import sleep
 
 print("""\033[1;31m
 --------------------------
-|    JOGO DA VELHA       |
+|     JOGO DA FORCA      |
 |                        |
 |    DESENVOLVIDO POR    |
 |    Tales L N Santos    |
